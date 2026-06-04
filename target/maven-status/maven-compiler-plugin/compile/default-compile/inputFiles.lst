@@ -1,0 +1,17 @@
+/var/home/frivera/Documents/agents_mvp/libraries/agent-messaging-java/src/main/java/com/eris/messaging/api/EventBus.java
+/var/home/frivera/Documents/agents_mvp/libraries/agent-messaging-java/src/main/java/com/eris/messaging/api/EventEnvelopeFactory.java
+/var/home/frivera/Documents/agents_mvp/libraries/agent-messaging-java/src/main/java/com/eris/messaging/api/EventHandler.java
+/var/home/frivera/Documents/agents_mvp/libraries/agent-messaging-java/src/main/java/com/eris/messaging/config/NatsConfig.java
+/var/home/frivera/Documents/agents_mvp/libraries/agent-messaging-java/src/main/java/com/eris/messaging/contracts/Event.java
+/var/home/frivera/Documents/agents_mvp/libraries/agent-messaging-java/src/main/java/com/eris/messaging/contracts/Intent.java
+/var/home/frivera/Documents/agents_mvp/libraries/agent-messaging-java/src/main/java/com/eris/messaging/contracts/Notification.java
+/var/home/frivera/Documents/agents_mvp/libraries/agent-messaging-java/src/main/java/com/eris/messaging/contracts/Source.java
+/var/home/frivera/Documents/agents_mvp/libraries/agent-messaging-java/src/main/java/com/eris/messaging/contracts/WorkItem.java
+/var/home/frivera/Documents/agents_mvp/libraries/agent-messaging-java/src/main/java/com/eris/messaging/contracts/enums/ChannelType.java
+/var/home/frivera/Documents/agents_mvp/libraries/agent-messaging-java/src/main/java/com/eris/messaging/contracts/enums/Importance.java
+/var/home/frivera/Documents/agents_mvp/libraries/agent-messaging-java/src/main/java/com/eris/messaging/contracts/enums/Status.java
+/var/home/frivera/Documents/agents_mvp/libraries/agent-messaging-java/src/main/java/com/eris/messaging/contracts/enums/WorkItemType.java
+/var/home/frivera/Documents/agents_mvp/libraries/agent-messaging-java/src/main/java/com/eris/messaging/event/DefaultEventEnvelopeFactory.java
+/var/home/frivera/Documents/agents_mvp/libraries/agent-messaging-java/src/main/java/com/eris/messaging/model/Subjects.java
+/var/home/frivera/Documents/agents_mvp/libraries/agent-messaging-java/src/main/java/com/eris/messaging/nats/NatsEventBus.java
+/var/home/frivera/Documents/agents_mvp/libraries/agent-messaging-java/src/main/java/com/eris/messaging/serialization/MessagingObjectMapper.java

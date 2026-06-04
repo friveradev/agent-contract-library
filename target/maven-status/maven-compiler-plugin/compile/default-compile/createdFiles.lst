@@ -1,0 +1,17 @@
+com/eris/messaging/contracts/Event.class
+com/eris/messaging/contracts/Source.class
+com/eris/messaging/model/Subjects.class
+com/eris/messaging/contracts/WorkItem.class
+com/eris/messaging/api/EventBus.class
+com/eris/messaging/contracts/enums/WorkItemType.class
+com/eris/messaging/nats/NatsEventBus.class
+com/eris/messaging/contracts/Notification.class
+com/eris/messaging/contracts/enums/Importance.class
+com/eris/messaging/contracts/Intent.class
+com/eris/messaging/contracts/enums/Status.class
+com/eris/messaging/api/EventEnvelopeFactory.class
+com/eris/messaging/event/DefaultEventEnvelopeFactory.class
+com/eris/messaging/serialization/MessagingObjectMapper.class
+com/eris/messaging/api/EventHandler.class
+com/eris/messaging/contracts/enums/ChannelType.class
+com/eris/messaging/config/NatsConfig.class
